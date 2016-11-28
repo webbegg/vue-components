@@ -1,6 +1,6 @@
 # Vue.js Components
 
-> A Vue.js project
+> General Vue.js components
 
 ## Build Setup
 
